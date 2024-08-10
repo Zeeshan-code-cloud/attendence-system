@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "580782792140",
+    "project_id": "ezitech-3",
+    "storage_bucket": "ezitech-3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580782792140:android:f43a389b4efa2235e49169",
+        "android_client_info": {
+          "package_name": "com.example.cli_testing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Qv6hTCwo8j-aWxrlggaJU3FDkxQ2hTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580782792140:android:d2e9f03894d4c0b9e49169",
+        "android_client_info": {
+          "package_name": "com.example.ezitech_internship2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5Qv6hTCwo8j-aWxrlggaJU3FDkxQ2hTc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
